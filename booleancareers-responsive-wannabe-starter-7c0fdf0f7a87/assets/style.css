@@ -71,3 +71,16 @@ img {
 .clear {
   clear: both;
 }
+
+@media screen and (max-width:767px){
+  
+  h1{
+    font-size:1.5rem ;
+  }
+
+  img{
+    height: 150px;
+  }
+
+
+}
